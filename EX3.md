@@ -1,4 +1,4 @@
-# EX 3 SubQueries, Views and Joins 
+# <p align="center"> EX 3 SubQueries, Views and Joins </p>
 ## Aim:
 To view implement SubQueries, Views and Joins.
 
