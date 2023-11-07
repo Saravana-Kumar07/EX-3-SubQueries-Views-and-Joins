@@ -1,6 +1,7 @@
 # <p align="center"> EX 3 SubQueries, Views and Joins </p>
+### DATE: 29/08/23
 ## Aim:
-To view implement SubQueries, Views and Joins.
+To view and implement SubQueries, Views, and Joins.
 
 ## Create employee Table
 ```sql
